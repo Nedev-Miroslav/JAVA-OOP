@@ -1,0 +1,6 @@
+package W04InterfacesAndAbstraction.P05BorderControl;
+
+public interface Identifiable {
+
+    String getId();
+}
