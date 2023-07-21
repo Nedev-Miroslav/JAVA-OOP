@@ -1,0 +1,7 @@
+package W06ExercisesReflection.P03BarracksWarsANewFactory.barracksWars.interfaces;
+
+import W06ExercisesReflection.P04BarracksWarsTheCommandsStrikeBack.barracksWars.interfaces.Attacker;
+import W06ExercisesReflection.P04BarracksWarsTheCommandsStrikeBack.barracksWars.interfaces.Destroyable;
+
+public interface Unit extends Destroyable, Attacker {
+}
